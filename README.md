@@ -1,6 +1,6 @@
 # Hardware 
 
-Dont forget to add klipper start codes as in klipper_config repo. 
+Dont forget to add klipper start codes as in [klipper_config repo](https://github.com/fl0r1s/klipper_config). 
 
 ## CR10
 - Stock
@@ -15,21 +15,14 @@ Dont forget to add klipper start codes as in klipper_config repo.
 
 I use the same settings on both my CR10 and CR10s. 
 
-### Naming convention
+## Naming convention
 
-material_type-layer_height-speed
+Filaments: 
 
-### Cura
+< Brand > < Filament Type > < Color >
 
-### PrusaSlicer
+Print Profiles: 
 
-## Material profiles
+< Layer Height > < Keyword >
 
-### Naming convention
-
-brand-material_type
-
-### Cura
-
-### PrusaSlicer
-
+Keyword is e.g. 'Draft' or 'Quality'. This is always with respect to the selected printer definition and therefore dependent on the nozzle size. 
