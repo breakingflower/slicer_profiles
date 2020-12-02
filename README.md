@@ -13,7 +13,7 @@ Dont forget to add klipper start codes as in [klipper_config repo](https://githu
 
 ## Installing profiles
 
-Copy the contents of this repo in your appdata folder for your slicer, e.g. `%APPDATA%\Roaming\SuperSlicer`. 
+Copy the contents of this repo in your appdata folder for your slicer, e.g. `%APPDATA%\SuperSlicer`. 
 
 ## Printing Profiles
 
