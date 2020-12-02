@@ -11,6 +11,10 @@ Dont forget to add klipper start codes as in [klipper_config repo](https://githu
 - Extruder (12V): Micro Swiss All Metal with EPCOS 100K B57560G104F
 - Heated bed (220V): Keenovo 750W with NTC 100K MGB18-104F39050L32
 
+## Installing profiles
+
+Copy the contents of this repo in your appdata folder for your slicer, e.g. `%APPDATA%\Roaming\SuperSlicer`. 
+
 ## Printing Profiles
 
 I use the same settings on both my CR10 and CR10s. 
