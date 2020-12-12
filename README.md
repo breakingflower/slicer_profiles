@@ -23,7 +23,7 @@ I use the same settings on both my CR10 and CR10s.
 
 Filaments: 
 
-< Brand > < Filament Type > < Color >
+FILAMENTTYPE_BRAND_COLOR
 
 Print Profiles: 
 
